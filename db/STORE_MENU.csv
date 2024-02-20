@@ -1,0 +1,21 @@
+storeID,menuName,menuDescription,menuPrice,menuPhoto
+1,BBQ 양념치킨,"옛날치킨 컨셉의 얇은 튀김옷에 사과퓨레, 당근 등의 천연재료를 가미하여 부드러운 단맛이 매력적인 BBQ의 새로운 양념치킨",21500,C:/project/deliveryphoto/bbq_Seasoning.png
+1,황올 반 + BBQ양념 반,겉바속촉 황금올리브치킨™과 부드러운 단맛이 매력적인 새로운 BBQ 양념치킨의 반반 조합,20000,C:/project/deliveryphoto/bbq_half.png
+1,황금올리브치킨,"겉은 바삭 육즙 가득한 부드러운 속살이 환상적인 건강한 치킨, 비비큐의 시그니처 메뉴 후라이드의 대명사 황금올리브치킨",20000,C:/project/deliveryphoto/bbq_Original.png
+1,자메이카 소떡만나치킨,"BBQ 자메이카 저크소스와 신선육, 소떡소떡을 조합하여 풍미를 올린 전국민이 최애하는 치킨",24000,C:/project/deliveryphoto/bbq_Jamaica.png
+1,황올한 깐풍치킨,BBQ 특제깐풍소스에 향긋한 대파와 고추를 곁들인 치맥의 절대 지존!,22000,C:/project/deliveryphoto/bbq_Kkanpung.png
+2,치즈 크레이프 샌드,"도미노 고유 도우인 샌드 도우에 대파 베이컨 크림치즈 무스를 베이스로! 총 7가지 치즈와 스테이크, 슈림프 토핑을 얹은 피자",29000,C:/project/deliveryphoto/dominos_Cheese.jpg
+2,블랙타이거 슈림프,바다와 육지의 대왕이 하나되는 맛!,30000,C:/project/deliveryphoto/dominos_Black.jpg
+2,리얼불고기,홈메이드 스타일의 불고기가 듬뿍! 남녀노소 좋아하는 맛으로 온 가족이 함께 즐기기에 좋은 피자,29900,C:/project/deliveryphoto/dominos_Bulgogi.jpg
+2,우리 고구마,"까다롭게 엄선한 국내산 고구마와 4가지 치즈, 리얼불고기의 절묘한 조화",30900,C:/project/deliveryphoto/dominos_sweetpotato.jpg
+2,슈퍼디럭스,"쇠고기, 페퍼로니, 햄, 버섯, 피망, 양파, 올리브 등 가장 많은 토핑이 들어가 풍부한 맛을 내는 피자! 무난한 맛으로 누구에게나 사랑받는 기본메뉴",28900,C:/project/deliveryphoto/dominos_Deluxe.jpg
+3,트리플X치즈 핫도그,체다치즈와 모짜렐라치즈가 듬뿍 들어간 핫도그에 잘 숙성된 짭잘한 고다치즈를 입혀 바삭하게 튀겨낸 핫도그,3500,C:/project/deliveryphoto/cheesehotdog.PNG
+3,딜리버리 세트,"핫도그 5종(통가래떡, 점보, 통모짜, 할라피뇨, 반반모짜) + 시즈닝 2종 + 소스 5종 + 케첩 5개",12800,C:/project/deliveryphoto/set5hotdog.PNG
+3,떡볶이 세트,"떡볶이 + 핫도그 3종(점보,통모짜,반반모짜)+케첩3개",14900,C:/project/deliveryphoto/dduckbokkiset.PNG
+3,명랑 핫도그,쌀가루를 넣어 쫄깃함을 더한 명량 오리지널 핫도그,1800,C:/project/deliveryphoto/hotdog.PNG
+3,감자통모짜 핫도그,모짜렐라치즈의 진한 풍미와 달콤한 고구마가 가득한 환상적인 맛의 핫도그,3300,C:/project/deliveryphoto/potato_hotdog.PNG
+4,등심 돈까스,등심2p + 데미그라스소스 + 와사비마요 + 뚱까츠특제소스 + 피클 + 할라피뇨 + 키드니빈스 + 김치 + 샐러드 + 밥 + 국 + 식전스프,10900,C:/project/deliveryphoto/dongas.PNG
+4,치즈 돈까스,치즈카츠+ 데미그라스소스 + 와사비마요 + 뚱까츠특제소스 + 피클 + 할라피뇨 + 키드니빈스 + 김치 + 샐러드 + 밥 + 국 + 와사비마요소스 + 식전스프,12900,C:/project/deliveryphoto/cheesedongas.PNG
+4,돈까스 함박정식,돈까스1p + 함박스테이크1p + 계란 + 체다치즈 + 새우튀김1p + 밥 + 피클 + 키드니빈스 + 김치 + 식전스프,12500,C:/project/deliveryphoto/dongasset.PNG
+4,치즈 돈까스 함박정식,치즈돈까스1p + 함박스테이크1p + 새우튀김1p + 피클 + 김치 키드니빈스 + 소스3종 + 국 + 밥 + 계란 + 치즈 + 식전스프,13900,C:/project/deliveryphoto/cheesedongasset.PNG
+4,코돈부르 치즈카츠,코돈부르카츠 + 데미그라스소스 + 생와사비 + 뚱카츠특제소스 + 피클 + 할라피뇨 + 키드니빈스 + 김치 + 샐러드 + 밥 + 국 + 식전스프,13900,C:/project/deliveryphoto/codonburucatz.PNG

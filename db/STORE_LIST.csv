@@ -1,0 +1,5 @@
+storeID,storeName,storeCategory,storePhoto,deliveryFee,minAmount
+1,BBQ 광주송정공원역점,치킨,C:/project/deliveryphoto/bbp_main.jpg,3000,18000
+2,도미노피자 광주송정점,피자,C:/project/deliveryphoto/dominos_main.jpg,3000,21900
+3,명량핫도그 광주소촌점,분식,C:/project/deliveryphoto/hotdog_logo.PNG,4000,20000
+4,뚱카츠,돈까스,C:/project/deliveryphoto/dongas_logo.PNG,4000,16000
